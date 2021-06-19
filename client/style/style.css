@@ -1,0 +1,27 @@
+.collection {
+  margin-top: 50px;
+}
+
+.collection-item {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0px !important;
+}
+
+.material-icons {
+  cursor: pointer;
+  margin-right: 5px;
+}
+.collection-item .delete {
+  color: rgb(216, 4, 4) !important;
+}
+
+.lyric input {
+  /* background-color: lightblue; */
+  border: lightslategray solid 1px;
+}
+
+.vote-box {
+  display: flex;
+  align-items: center;
+}
