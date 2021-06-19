@@ -11,6 +11,9 @@
 - Mongoose
 - CSS
 
+## Available Commands
+
+### "npm run dev"
 ## Author
 
 **Sara Aboeldahab**
